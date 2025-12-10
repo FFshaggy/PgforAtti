@@ -169,7 +169,7 @@
         {
             nombre: "Colegio del Carmen",
             ubicacion: "Posadas, Misiones",
-            logo: "https://ss-static-001.esmsv.com/r/content/host2/40226b0c6439fc4e64782c93fb6bda85//editor/ColdelCarmen.webp"
+            logo: "https://ss-static-001.esmsv.com/r/content/host2/40226b0c6439fc4e64782c93fb6bda85//editor/Screenshot1.webp"
         },
         {
             nombre: "Instituto Nstra. Sra. de Fátima",
